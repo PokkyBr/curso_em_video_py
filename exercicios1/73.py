@@ -1,0 +1,3 @@
+tabela = 'palmeiras', 'internacional', 'fluminense', 'corinthians', 'flamengo', 'athletico-PR', 'atlético-MG', 'fortaleza', 'sao paulo', 'américa-MG', 'botafogo', 'santos', 'goiás', 'bragantino', 'coritiba', 'cuiabá', 'ceará', 'atlético-GO', 'avaí', 'juventude'
+
+print(f'Os 5 primeiros colocados são: {tabela[0:5]}\nOs 4 últimos colocados são: {tabela[-1:-5:-1]}]\nEm ordem alfabétida: {sorted(tabela)}\nNão tem chapecoense.')
